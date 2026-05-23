@@ -16,8 +16,8 @@ Una entidad financiera realiza campañas de telemercadeo para ofrecer Certificad
 
 ## Tecnologías utilizadas
 
-- `Python` como lenguaje de programación
-- `Visual Studio Code` como entorno de desarrollo
+- `Python` como lenguaje de programación.
+- `Visual Studio Code` como entorno de desarrollo.
 
 ---
 
