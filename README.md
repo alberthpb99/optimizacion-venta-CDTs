@@ -14,13 +14,6 @@ Una entidad financiera realiza campañas de telemercadeo para ofrecer Certificad
 
 ---
 
-## Tecnologías utilizadas
-
-- `Python` como lenguaje de programación.
-- `Visual Studio Code` como entorno de desarrollo.
-
----
-
 ##  Descripción de archivos
 
 - `Script_CDT.ipynb`: Notebook en Python con todo el flujo de trabajo (análisis exploratorio, limpieza de datos, modelado y evaluación).  
